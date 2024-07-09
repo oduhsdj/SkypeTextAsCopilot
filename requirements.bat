@@ -1,2 +1,2 @@
 pip install WMI
-@start C:\Users\Doruk\Desktop\DcRaider\Raider.py
+@start C:\Users\Username\Desktop\SkypeTextAsCopilot-main.zip\Copilot.exe
